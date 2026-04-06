@@ -1,0 +1,169 @@
+# Project: KingMaker Clothing Website
+
+## Overview
+Create a modern, mobile-responsive 5-page static website using:
+- Laravel 12 (Blade templates)
+- HTML5
+- Tailwind CSS
+- jQuery
+
+Brand Name: KingMaker  
+Business Type: Clothing Shop (Retail + Wholesale)
+
+---
+
+## Pages Required
+
+### 1. Home Page
+- Hero section with brand name "KingMaker"
+- Tagline: "Rule Your Style"
+- CTA Buttons:
+  - Contact on WhatsApp
+- Featured categories:
+  - Men
+  - Wholesale Collection
+- Highlight:
+  - Retail + Wholesale Available
+- Banner images (fashion related)
+
+---
+
+### 2. About Us
+- Shop introduction
+- Owner message
+- Business values:
+  - Quality
+  - Affordable pricing
+  - Bulk deals
+- Section: Why choose us?
+
+---
+
+### 3. Products / Collection
+- Grid layout (responsive)
+- Categories:
+  - Men's Wear
+  - Wholesale Bundles
+- Each product card:
+  - Image
+  - Name
+  - Price (optional)
+  - WhatsApp inquiry button
+
+---
+
+### 4. Wholesale Page
+- Special section for bulk buyers
+- Info about:
+  - Bulk pricing
+  - Minimum order quantity
+- CTA:
+  - Contact on WhatsApp
+  - Call Now
+
+---
+
+### 5. Contact Page
+- WhatsApp button
+- Click-to-call phone number
+- Google Maps embed
+- Shop address
+
+---
+
+## Features Required
+
+### 📱 Mobile Responsive
+- Fully responsive using Tailwind CSS
+- Mobile-first design
+
+### 🎨 UI Design
+- Clean modern UI
+- Use Tailwind utility classes
+- Smooth hover effects
+- Sticky navbar
+
+### 📞 Contact Integrations
+- WhatsApp redirect:
+  - https://wa.me/<9727443999>
+- Click to call:
+  - tel:<9727443999>
+
+### 🔗 Navigation
+- Navbar with links:
+  - Home
+  - About
+  - Products
+  - Wholesale
+  - Contact
+
+### 📦 Footer
+- Social links
+- Contact info
+- Quick links
+
+---
+
+## Laravel Structure
+
+- Use Blade templates
+- Create layout file:
+  - resources/views/layouts/app.blade.php
+
+- Pages:
+  - home.blade.php
+  - about.blade.php
+  - products.blade.php
+  - wholesale.blade.php
+  - contact.blade.php
+
+- Include:
+  - Navbar component
+  - Footer component
+
+---
+
+## Styling
+- Use Tailwind CSS
+- Use CDN
+- Use modern fonts (Google Fonts optional)
+
+---
+
+## jQuery Usage
+- Smooth scroll
+- Mobile menu toggle
+- Simple animations
+
+---
+
+## Extra Features
+- Floating WhatsApp button (bottom right)
+- Sticky header
+- Image hover zoom effect
+- Scroll animations
+
+---
+
+## Branding
+- Primary Color: Black / Gold theme
+- Font: Bold and premium style
+- Feel: Luxury + streetwear
+
+---
+
+## Output Requirement
+Generate:
+- Laravel project structure
+- Blade templates
+- Tailwind setup
+- Sample images placeholders
+- Clean reusable components
+
+---
+
+## Important
+- Code must be clean and reusable
+- Keep UI modern and minimal
+- Fully mobile optimized
+- Include comments in code
