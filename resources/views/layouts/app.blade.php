@@ -5,6 +5,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@yield('title', 'KingMaker - Rule Your Style')</title>
     
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="KingMaker - Premium men's fashion and clothing store. Discover exclusive collection of shirts, t-shirts, jeans, and formal wear. Quality apparel for the modern gentleman. Shop now for free delivery!">
+    <meta name="keywords" content="fashion, clothing, men's wear, premium apparel, style, kingmaker">
+    <meta name="author" content="KingMaker">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://kingmaker-menswear.vercel.app/">
+    
+    <!-- Open Graph Meta Tags for Social Media -->
+    <meta property="og:title" content="@yield('title', 'KingMaker - Rule Your Style')">
+    <meta property="og:description" content="KingMaker - Premium men's fashion and clothing store. Discover exclusive collection of shirts, t-shirts, jeans, and formal wear. Quality apparel for modern gentleman. Shop now for free delivery!">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://kingmaker-menswear.vercel.app/">
+    <meta property="og:image" content="https://kingmaker-menswear.vercel.app/images/og-image.jpg">
+    <meta property="og:site_name" content="KingMaker - Rule Your Style">
+    
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="@yield('title', 'KingMaker - Rule Your Style')">
+    <meta name="twitter:description" content="KingMaker - Premium men's fashion and clothing store. Discover exclusive collection of shirts, t-shirts, jeans, and formal wear. Quality apparel for modern gentleman. Shop now for free delivery!">
+    <meta name="twitter:image" content="https://kingmaker-menswear.vercel.app/images/twitter-card.jpg">
+    
+    <!-- Additional SEO -->
+    <meta name="theme-color" content="#FFD700">
+    <meta name="msapplication-TileColor" content="#FFD700">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     
