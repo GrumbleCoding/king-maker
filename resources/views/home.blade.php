@@ -151,7 +151,7 @@ html {
             <!-- Premium Shirts -->
             <div class="group relative overflow-hidden rounded-2xl shadow-xl hover:shadow-2xl transition-all duration-500 transform hover:-translate-y-2">
                 <div class="aspect-w-16 aspect-h-12 relative">
-                    <img src="{{ env('APP_ENV') === 'production' ? asset('images/Pure_linen_shirts_for_classic_and_timless_men_s_style_3eee1e99-38f0-42fd-aaa1-36200db99e74.webp') : asset('assets/images/Pure_linen_shirts_for_classic_and_timless_men_s_style_3eee1e99-38f0-42fd-aaa1-36200db99e74.webp') }}" 
+                    <img src="{{ env('APP_ENV') === 'production' ? asset('Pure_linen_shirts_for_classic_and_timless_men_s_style_3eee1e99-38f0-42fd-aaa1-36200db99e74.webp') : asset('assets/images/Pure_linen_shirts_for_classic_and_timless_men_s_style_3eee1e99-38f0-42fd-aaa1-36200db99e74.webp') }}" 
                          alt="Premium Shirts" 
                          class="w-full h-80 object-cover group-hover:scale-110 transition-transform duration-700">
                     <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
