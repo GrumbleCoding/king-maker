@@ -49,7 +49,7 @@
                 <div class="bg-gradient-to-br from-white to-gray-50 rounded-2xl shadow-xl hover:shadow-2xl transition-all duration-500 transform hover:-translate-y-2 overflow-hidden border border-gray-200">
                     <!-- Product Image Section -->
                     <div class="relative h-80 overflow-hidden bg-gray-100">
-                        <img src="{{ Helper::assets('images/shirt.jpg') }}" 
+                        <img src="{{ asset('assets/images/shirt.jpg') }}" 
                              alt="Classic Premium Shirt" 
                              class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700">
                         <!-- Overlay Gradient -->
@@ -106,7 +106,7 @@
                 <div class="bg-gradient-to-br from-white to-gray-50 rounded-2xl shadow-xl hover:shadow-2xl transition-all duration-500 transform hover:-translate-y-2 overflow-hidden border border-gray-200">
                     <!-- Product Image Section -->
                     <div class="relative h-80 overflow-hidden bg-gray-100">
-                        <img src="{{ Helper::assets('images/premium-t-shirt.jpg') }}" 
+                        <img src="{{ asset('assets/images/premium-t-shirt.jpg') }}" 
                              alt="Classic Premium T-Shirt" 
                              class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700">
                         <!-- Overlay Gradient -->
@@ -163,7 +163,7 @@
                 <div class="bg-gradient-to-br from-white to-gray-50 rounded-2xl shadow-xl hover:shadow-2xl transition-all duration-500 transform hover:-translate-y-2 overflow-hidden border border-gray-200">
                     <!-- Product Image Section -->
                     <div class="relative h-80 overflow-hidden bg-gray-100">
-                        <img src="{{ Helper::assets('images/lenin-pant.jpg') }}" 
+                        <img src="{{ asset('assets/images/lenin-pant.jpg') }}" 
                              alt="Premium Lenin Pants" 
                              class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700">
                         <!-- Overlay Gradient -->
@@ -220,7 +220,7 @@
                 <div class="bg-gradient-to-br from-white to-gray-50 rounded-2xl shadow-xl hover:shadow-2xl transition-all duration-500 transform hover:-translate-y-2 overflow-hidden border border-gray-200">
                     <!-- Product Image Section -->
                     <div class="relative h-80 overflow-hidden bg-gray-100">
-                        <img src="{{ Helper::assets('images/premium-jeans.jpg') }}" 
+                        <img src="{{ asset('assets/images/premium-jeans.jpg') }}" 
                              alt="Premium Jeans" 
                              class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700">
                         <!-- Overlay Gradient -->
@@ -277,7 +277,7 @@
                 <div class="bg-white rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 overflow-hidden">
                     <!-- Product Image Container -->
                     <div class="relative">
-                        <img src="{{ Helper::assets('images/wholesale.jpg') }}" 
+                        <img src="{{ asset('assets/images/wholesale.jpg') }}" 
                              alt="Premium Collection Pack" 
                              class="w-full h-96 object-cover">
                         <!-- Premium Badge -->
