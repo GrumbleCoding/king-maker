@@ -6,6 +6,7 @@
     <title>@yield('title', 'KingMaker - Rule Your Style')</title>
     
     <!-- SEO Meta Tags -->
+     <meta name="google-site-verification" content="soHnvZQXYw7ujzWQ5MleptTZNKbL51JX1zFotMMI06M" />
     <meta name="description" content="KingMaker - Premium men's fashion and clothing store. Discover exclusive collection of shirts, t-shirts, jeans, and formal wear. Quality apparel for the modern gentleman. Shop now for free delivery!">
     <meta name="keywords" content="fashion, clothing, men's wear, premium apparel, style, kingmaker">
     <meta name="author" content="KingMaker">
